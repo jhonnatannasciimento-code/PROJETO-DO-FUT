@@ -1,0 +1,43 @@
+body{
+    margin:0;
+    font-family:Arial;
+    background:#f4f4f4;
+}
+
+header{
+    background:#1B5E20;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:15px;
+}
+
+.banner{
+    height:300px;
+    background:url('../imagens/banner.jpg');
+    background-size:cover;
+}
+
+#destaques{
+    padding:30px;
+}
+
+.card{
+    width:250px;
+    background:white;
+    border-radius:10px;
+    padding:15px;
+    box-shadow:0 0 10px #ccc;
+}
+<input id="email">
+
+<input id="senha" type="password">
+
+<button onclick="login()">
+Entrar
+</button>
