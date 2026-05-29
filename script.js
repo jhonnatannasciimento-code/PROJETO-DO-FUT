@@ -1,10 +1,11 @@
 const destaques = [
 
 {
-nome:"Joãdggggdgo",
-titulo:"Artilheiro da Semacwewcwenaaaa",
+nome:"João",
+titulo:"Artilheiro da Semana",
 foto:"imagens/atletas/joao.jpg",
 numero:5
+
 },
 
 {
